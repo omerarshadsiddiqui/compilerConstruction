@@ -1,0 +1,23 @@
+int val1 = 21; // to store a value
+int val2;
+int total;
+String purpose = "Calculation"; /* to store calculation */
+String purpose2 = "Calculation2";
+
+String .hel = "hell";
+
+if ( val1 > 10 )
+{
+ val2 = 5;
+ char Names;
+ /;
+
+ mychar
+ 1float
+}
+else
+{
+ val2 = 10;
+}
+total = (val1 + val2) * val1;
+
